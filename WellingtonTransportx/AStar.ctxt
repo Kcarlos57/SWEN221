@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AStar
+comment1.params=start\ goal\ timeOrDistance1
+comment1.target=java.util.List\ findShortestPath(Stop,\ Stop,\ java.lang.String)
+comment2.params=start\ goal\ timeOrDistance1
+comment2.target=java.util.List\ findShortestPath1(Stop,\ Stop,\ java.lang.String)
+comment3.params=cameFrom\ current
+comment3.target=java.util.List\ reconstructPath(java.util.Map,\ Stop)
+comment4.params=current\ goal
+comment4.target=double\ heuristic(Stop,\ Stop)
+comment4.text=\r\n\ Return\ the\ heuristic\ estimate\ of\ the\ cost\ to\ get\ from\ a\ stop\ to\ the\ goal\r\n
+comment5.params=edge
+comment5.target=double\ edgeCost(Edge)
+comment5.text=\r\n\ Return\ the\ cost\ of\ traversing\ an\ edge\ in\ the\ graph\r\n
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Components
+comment1.params=graph
+comment1.target=void\ findComponents(Graph)
+comment2.params=stop\ visited\ stack
+comment2.target=void\ dfs1(Stop,\ java.util.Set,\ java.util.Stack)
+comment3.params=stop\ visited\ subGraphId
+comment3.target=void\ dfs2(Stop,\ java.util.Set,\ int)
+numComments=4
